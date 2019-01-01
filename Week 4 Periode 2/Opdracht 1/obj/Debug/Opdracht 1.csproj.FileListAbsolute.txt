@@ -1,0 +1,7 @@
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\bin\Debug\Opdracht 1.exe.config
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\bin\Debug\Opdracht 1.exe
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\bin\Debug\Opdracht 1.pdb
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\obj\Debug\Opdracht 1.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\obj\Debug\Opdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\obj\Debug\Opdracht 1.exe
+C:\Users\natha\Desktop\Programmeren\Week 4 Periode 2\Opdracht 1\obj\Debug\Opdracht 1.pdb
